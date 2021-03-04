@@ -6,7 +6,7 @@ We used a PDE commonly used to describe the motion of radioactive particles, the
 
 Some simulations with different wind patterns:
 
-![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/nowind.gif)
+![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/no-wind.gif)
 
 ![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/line-wind.gif)
 
