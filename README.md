@@ -10,7 +10,7 @@ Some simulations with different wind patterns:
 
 ![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/line-wind.gif)
 
-![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/strange-wind.gif)
+![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/circular.gif)
 
 
 [Check out our Devpost!](https://devpost.com/software/radioactive-decay-in-the-island-nation-of-japan)
