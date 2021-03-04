@@ -6,11 +6,11 @@ We used a PDE commonly used to describe the motion of radioactive particles, the
 
 Some simulations with different wind patterns:
 
-![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/line%20wind.gif)
+![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/nowind.gif)
 
-![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/strange%20wind.gif)
+![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/linewind.gif)
 
-![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/circular.gif)
+![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/strangewind.gif)
 
 
 [Check out our Devpost!](https://devpost.com/software/radioactive-decay-in-the-island-nation-of-japan)
