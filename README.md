@@ -5,8 +5,12 @@ We wanted to understand why radioactive particles from the aftermath of a nuclea
 We used a PDE commonly used to describe the motion of radioactive particles, the advection-diffusion equation, and used a Taylor expansion to convert it into a directed random walk. We then simulated the random walk for many particles to see how the gaussian plume would spread and move in a 2D lattice. We added an exponentially decaying source of particles at the plant, used the diffusion coefficient of radioactive uranium and observed its motion under different wind fields.
 
 Some simulations with different wind patterns:
+
 ![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/line%20wind.gif)
+
 ![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/strange%20wind.gif)
+
 ![](https://github.com/kushasareen/radioactive-decay-in-the-island-nation-of-japan/blob/main/circular.gif)
+
 
 [Check out our Devpost!](https://devpost.com/software/radioactive-decay-in-the-island-nation-of-japan)
